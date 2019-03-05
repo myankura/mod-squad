@@ -1,9 +1,12 @@
 original code:
 
 //const HTMLRepresentation = `<h1>The Mod Squad</h1>`//should go here
+
 {
     const ModSquad = {
+    
         //add a , between members array and series.//
+        
         "members": ["Pete Cochran", "Linc Hayes", "Julie Barnes", "Capt. Adam Greer", "Chief Barney Metcalf"]
         "series": {
             "start": "1968",
